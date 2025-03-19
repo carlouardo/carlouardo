@@ -7,7 +7,7 @@ Sou Técnico em Informática e atualmente graduando em Análise e Desenvolviment
 ---  
 **Linguagens:**    
    * Python (Pandas, Numpy)  
-   * SQL (MySQL)    
+   * SQL (MySQL)  
 **Ferramentas e Tecnologias:**      
    * Power BI  
    * Tableau  
