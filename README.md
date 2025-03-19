@@ -5,10 +5,10 @@
 Sou Técnico em Informática e atualmente graduando em Análise e Desenvolvimento de Sistemas na UNIASSELVI, possuo conhecimento sobre Ciência e Análise de Dados. Tenho experiência prática em ferramentas como Excel, Power BI e SQL, focando na extração de insights estratégicos e na otimização de processos empresariais. Estou constantemente em busca de aprimorar minhas habilidades técnicas e analíticas, sempre comprometido com a excelência e a inovação. Além da minha trajetória acadêmica e profissional, sou entusiasta de atividades físicas, como corrida, o que reflete meu compromisso com a disciplina e o bem-estar.  
 ## Habilidades Técnicas  
 ---  
-**-Linguagens:**  
+**Linguagens:**  
    *Python (Pandas, Numpy)  
    *SQL (MySQL)  
-**-Ferramentas e Tecnologias:**    
+**Ferramentas e Tecnologias:**    
    *Power BI  
    *Tableau  
    *Jupiter Notebook (em estudo)  
